@@ -1,4 +1,5 @@
 var inquirer= require ("inquirer");
+var fs = require("fs");
 
 inquirer
 .prompt([
@@ -67,9 +68,16 @@ inquirer
     
      ## Testing
       ${answers.testing}
-    })
     `
     console.log(template)
+
+    fs.writeFile("README.md", template,()=>{
+        console.log("created README markdown!")
+    })
+})
+
+
+    
 
 
 
