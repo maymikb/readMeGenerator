@@ -1,3 +1,13 @@
+
+//title of the README
+//description
+//installation instructions
+//usage information
+//contribution guidelines
+//test instructions
+
+
+
 // TODO: Include packages needed for this application
 
 // TODO: Create an array of questions for user input
@@ -13,3 +23,6 @@ function init() {
 
 // Function call to initialize app
 init();
+
+
+
