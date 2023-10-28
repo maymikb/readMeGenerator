@@ -21,13 +21,13 @@ inquirer
 
 {
     type: "input",
-    name: "usage info ",
+    name: "usage",
     message: "What is the usage information?"
 },
 
 {
     type: "input",
-    name: "contribution",
+    name: "contributing",
     message: "What are the contribution guidelines?",
 },
 
@@ -39,9 +39,7 @@ inquirer
 
  
 ])
-.then((answers)=>{
-//ANSWERS(FEEDBACK)
-})
+
 
 
 
