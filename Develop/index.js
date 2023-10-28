@@ -1,5 +1,6 @@
 var inquirer= require ("inquirer");
 var fs = require("fs");
+var generateMarkdown=require ("./utils/generateMarkdown")
 
 inquirer
 .prompt([
@@ -50,25 +51,7 @@ inquirer
     console.log(answers.contributing);
     console.log(answers.testing);
 
-    var template =`
-    # Title
-     ${answers.title}
-
-    ## Description 
-    ${answers.description}
-    
-    ## Installation 
-    ${answers.installation}
-    
-    ## Usage
-     ${answers.usage}
-    
-     ## Contributing
-     ${answers.contributing}
-    
-     ## Testing
-      ${answers.testing}
-    `
+    var template= generateMarkdown(answers)
     console.log(template)
 
     fs.writeFile("README.md", template,()=>{
