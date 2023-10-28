@@ -40,8 +40,14 @@ inquirer
  
 ])
 
-
-
+.then((answers)=>{
+    console.log(answers.title);
+    console.log(answers.description);
+    console.log(answers.installation);
+    console.log(answers.usage);
+    console.log(answers.contributing);
+    console.log(answers.testing);
+    })
 
 // TODO: Include packages needed for this application
 
