@@ -72,7 +72,7 @@ inquirer
     console.log(template)
 
     fs.writeFile("README.md", template,()=>{
-        console.log("created README markdown!")
+        console.log("created README markdown demo!")
     })
 })
 
