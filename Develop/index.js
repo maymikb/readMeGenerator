@@ -1,4 +1,5 @@
 var inquirer= require ("inquirer");
+
 inquirer
 .prompt([
     {
@@ -47,8 +48,13 @@ inquirer
     console.log(answers.usage);
     console.log(answers.contributing);
     console.log(answers.testing);
+
+    var template 
     })
 
+
+
+    
 // TODO: Include packages needed for this application
 
 // TODO: Create an array of questions for user input
