@@ -39,6 +39,12 @@ inquirer
     name: "testing",
     message: "What are the test instructions?",
 },
+{
+    type: "input",
+    name: "questions",
+    message: "Are there any questions?",
+},
+
 
  
 ])
@@ -50,6 +56,7 @@ inquirer
     console.log(answers.usage);
     console.log(answers.contributing);
     console.log(answers.testing);
+    console.log(answers.questions);
 
     var template= generateMarkdown(answers)
     console.log(template)
