@@ -42,7 +42,7 @@ inquirer
 {
     type: "input",
     name: "questions",
-    message: "Are there any questions?",
+    message: "Are there any questions?",  //add questions here or repeat whoel section?
 },
 
 

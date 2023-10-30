@@ -18,15 +18,20 @@ function generateMarkdown(data) {
   ## Description 
   ${data.description}
   
-  ## ${data.installation}
+  ## Installation
+  ${data.installation}
   
-  ## ${data.usage}
+  ## Usage
+  ${data.usage}
   
-  ## ${data.contributing}
+  ## Contributing
+  ${data.contributing}
   
- ## ${data.testing}
+ ## Testing
+ ${data.testing}
 
- ## ${data.answers}
+ ## Answers
+ ${data.answers}
   `
 }
 
