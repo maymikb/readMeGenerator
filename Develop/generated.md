@@ -1,6 +1,6 @@
 
-# My Project 1
-![badge](https://img.shields.io/badge/LICENSE-Mozilla-blue)
+# jfca
+![badge](https://img.shields.io/badge/LICENSE-MIT-blue)
 
 ## Table of contents
 - [Description](#description) 
@@ -11,28 +11,27 @@
 - [Questions](#questions)
 
 ## Description 
-This is for soemthing 
+few
 
 ## Installation
-Just run npm i
+efijc
 
 ## Usage
-This for asdasdadsada
+hjfa
 
 ## Contributing
-Send me an email
+ikdc
 
 ## Testing
-Run npm ruun test to run the tests
+ijkdc
 
 ## Questions
-asda
-- Github:
-- Email:
+undefined
+undefined
 
 
 ## License
-- This application is under Mozilla license.
-- Link: https://www.mozilla.org/en-US/MPL/2.0/
+- This application is under MIT license.
+- Link: https://opensource.org/license/mit/
 
 

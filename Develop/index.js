@@ -42,7 +42,7 @@ inquirer
 {
     type: "input",
     name: "questions",
-    message: "Are there any questions?",  //add questions here or repeat whoel section?
+    message: "Are there any questions?", 
 },
 {
     type: "list",
@@ -54,26 +54,16 @@ inquirer
         "Apache",
     ]
 },
-//
+
 {
-    type: "list",
+    type: "input",
     name: "questions",
     message: "What is your github username?", 
-    choices: [
-        "MIT", 
-        "Mozilla",
-        "Apache",
-    ]
 },
 {
-    type: "list",
+    type: "input",
     name: "questions",
     message: "What is your email address?", 
-    choices: [
-        "MIT", 
-        "Mozilla",
-        "Apache",
-    ]
 },
   
 ])
