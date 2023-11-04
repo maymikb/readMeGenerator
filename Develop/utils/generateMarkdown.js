@@ -66,8 +66,8 @@ ${data.testing}
 
 ## Questions
 ${data.questions}
-- Github:
-- Email:
+- github:${data.github}
+- email:${data.email}
 
 ${renderLicenseSection(data.license)}
 

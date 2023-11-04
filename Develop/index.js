@@ -54,13 +54,28 @@ inquirer
         "Apache",
     ]
 },
-
-//  add question for github username
-
-// add question for email
-
-
- 
+//
+{
+    type: "list",
+    name: "questions",
+    message: "What is your github username?", 
+    choices: [
+        "MIT", 
+        "Mozilla",
+        "Apache",
+    ]
+},
+{
+    type: "list",
+    name: "questions",
+    message: "What is your email address?", 
+    choices: [
+        "MIT", 
+        "Mozilla",
+        "Apache",
+    ]
+},
+  
 ])
 
 .then((answers)=>{
