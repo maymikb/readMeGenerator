@@ -44,6 +44,20 @@ inquirer
     name: "questions",
     message: "Are there any questions?",  //add questions here or repeat whoel section?
 },
+{
+    type: "list",
+    name: "license",
+    message: "What license was used?", 
+    choices: [
+        "MIT", 
+        "Mozilla",
+        "Apache",
+    ]
+},
+
+//  add question for github username
+
+// add question for email
 
 
  
@@ -61,7 +75,7 @@ inquirer
     var template= generateMarkdown(answers)
     console.log(template)
 
-    fs.writeFile("README.md", template,()=>{
+    fs.writeFile("generated.md", template,()=>{
         console.log("created README markdown demo!")
     })
 })

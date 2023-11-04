@@ -1,16 +1,12 @@
- <title>Maymi Sarr - readMeGenerator</title>
- 
- # readMeGenerator 
+# Read Me Generator
 By Maymi Sarr
+
 ## Purpose
 This is an app created from node.js to generate a professional README smoothly and efficiently.
 ## Table of contents
-- [Title](#title)
 - [Description](#description) 
 - [Installation](#installation)
 - [Usage](#usage)
-<!-- - [Contributing] (#contributing)
-- [Testing] (#testing) -->
 - [Questions](#questions)
 
 ## Description
