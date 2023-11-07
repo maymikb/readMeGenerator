@@ -1,5 +1,5 @@
 
-# hfkd
+# The ReadMe Generator
 ![badge](https://img.shields.io/badge/LICENSE-MIT-blue)
 
 ## Table of contents
@@ -11,24 +11,24 @@
 - [Questions](#questions)
 
 ## Description 
-kdfj
+generates a unique and professional readMe by using the data from questions asked(and answered)        
 
 ## Installation
-kfdhj
+Run npm to perform installation, use the inquirer deendency, and use fs
 
 ## Usage
-hdikfh
+Demo example here
 
 ## Contributing
-fkhd
+Use the scout rule
 
 ## Testing
-df
+Do example test here
 
 ## Questions
-fjld
-- github:kdfn
-- email:dnfkd
+When can I use this? 
+- github:Maymikb
+- email:makabs12@gmail.com
 
 
 ## License
