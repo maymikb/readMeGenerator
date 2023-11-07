@@ -18,3 +18,8 @@ The motivation for this app was to make the understanding of code quick and clea
 
 ## Screenshot
 ![](./demoScreenshot.png)
+
+## Video Walkthrough Link
+https://drive.google.com/file/d/1hSjZ_k_0xDKHiOgryCptCADUCzI9VeF4/view?usp=sharing
+
+
