@@ -20,5 +20,5 @@ The motivation for this app was to make the understanding of code quick and clea
 ![](./demoScreenshot.png)
 
 ## Video Walkthrough Link
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/0fbdf960-1125-4957-yae6-c6ab60cf9aeb
+https://drive.google.com/file/d/1kmVCvppFv6ukJewIo5GYr7TjND9-BHp8/view
 
