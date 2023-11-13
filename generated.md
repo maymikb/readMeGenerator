@@ -11,10 +11,10 @@
 - [Questions](#questions)
 
 ## Description 
-generates a unique and professional README by using the datat from questions asked (and answered)
+ generates a unique and professional reaMe by using datat from questions asked (and answered)
 
 ## Installation
-runnpm to perform installation, use the inquirer dependency, and use fs     
+run npm to perform installation, use the inquirer dependency, and use fs
 
 ## Usage
 demo example here
@@ -23,12 +23,12 @@ demo example here
 Use the scout rule
 
 ## Testing
-Do example test here
+do example test here
 
 ## Questions
 When can I use this?
 - github:[maymikb](https://github.com/maymikb)
-- email:makabas12@gmail.com
+- email:makabs12@gmail.com
 
 
 ## License
