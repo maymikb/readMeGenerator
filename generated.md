@@ -1,5 +1,5 @@
 
-# The readME Generator
+# the readMe generator
 ![badge](https://img.shields.io/badge/LICENSE-MIT-blue)
 
 ## Table of contents
@@ -11,10 +11,10 @@
 - [Questions](#questions)
 
 ## Description 
-An app that generates a unique and professional readMe using data from questions asked
+generates a unique and professional README by using the datat from questions asked (and answered)
 
 ## Installation
-run npm to perform installation, use the inquirer dependency, and use fs
+runnpm to perform installation, use the inquirer dependency, and use fs     
 
 ## Usage
 demo example here
@@ -26,9 +26,9 @@ Use the scout rule
 Do example test here
 
 ## Questions
-When can I use this generator?
-- github:maymikb
-- email:makabs12@gmail.com
+When can I use this?
+- github:[maymikb](https://github.com/maymikb)
+- email:makabas12@gmail.com
 
 
 ## License
@@ -36,4 +36,3 @@ When can I use this generator?
 - Link: https://opensource.org/license/mit/
 
 
-[maymikb](https://github.com/maymikb)
