@@ -66,7 +66,7 @@ ${data.testing}
 
 ## Questions
 ${data.questions}
-- github:${data.github}
+- github:[${data.github}](https://github.com/${data.github})
 - email:${data.email}
 
 ${renderLicenseSection(data.license)}

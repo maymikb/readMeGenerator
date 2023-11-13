@@ -36,3 +36,4 @@ When can I use this generator?
 - Link: https://opensource.org/license/mit/
 
 
+[maymikb](https://github.com/maymikb)
